@@ -1,0 +1,13 @@
+D:\ShopingZone\bin\Debug\netcoreapp3.1\ShopingZone.deps.json
+D:\ShopingZone\bin\Debug\netcoreapp3.1\ShopingZone.dll
+D:\ShopingZone\bin\Debug\netcoreapp3.1\ShopingZone.pdb
+D:\ShopingZone\obj\Debug\netcoreapp3.1\ShopingZone.csprojAssemblyReference.cache
+D:\ShopingZone\obj\Debug\netcoreapp3.1\ShopingZone.AssemblyInfoInputs.cache
+D:\ShopingZone\obj\Debug\netcoreapp3.1\ShopingZone.AssemblyInfo.cs
+D:\ShopingZone\obj\Debug\netcoreapp3.1\ShopingZone.csproj.CoreCompileInputs.cache
+D:\ShopingZone\obj\Debug\netcoreapp3.1\ShopingZone.dll
+D:\ShopingZone\obj\Debug\netcoreapp3.1\ShopingZone.pdb
+D:\ShopingZone\bin\Debug\netcoreapp3.1\ShopingZone.exe
+D:\ShopingZone\bin\Debug\netcoreapp3.1\ShopingZone.runtimeconfig.json
+D:\ShopingZone\bin\Debug\netcoreapp3.1\ShopingZone.runtimeconfig.dev.json
+D:\ShopingZone\obj\Debug\netcoreapp3.1\ShopingZone.genruntimeconfig.cache
